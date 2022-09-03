@@ -1,4 +1,4 @@
-package com.company.linkedList;
+package com.company.linkedListSongList;
 
 public class Song {
     private String title;

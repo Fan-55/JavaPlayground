@@ -1,4 +1,4 @@
-package com.company.linkedList;
+package com.company.linkedListSongList;
 
 import java.util.ArrayList;
 import java.util.List;
